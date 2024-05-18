@@ -1,4 +1,4 @@
-# Co_Project
+# CO_Project
 
 we have made 5 functions 
 1) ado (opcode : 10101); Type C; add one to the source register and storing the final data in destination register; ado reg1 reg2;
